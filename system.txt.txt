@@ -1,2 +1,2 @@
 My name is Vicky Gupta .
-I am trying to use Git
+I am trying to use Git in Git HUB
